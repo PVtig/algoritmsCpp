@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\bitwise_operation">
+      <UniqueIdentifier>{01611f81-7d15-40ee-8853-57199748a282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\sortings">
+      <UniqueIdentifier>{f21ca270-812d-4b1e-ab06-296c2ba8808a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\data_structures">
+      <UniqueIdentifier>{3d76cf02-0faa-4374-bdb2-c48a9e11f83c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\math">
+      <UniqueIdentifier>{5c92b88e-1f3f-4135-b2de-805ead9a0d3d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="algoritmsCpp.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Radix_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Selection_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Quick_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Merge_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Insertion_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Bubble_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Counting_sort.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Bitmasks.cpp">
+      <Filter>Исходные файлы\bitwise_operation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Bitwise.cpp">
+      <Filter>Исходные файлы\bitwise_operation</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Stack.cpp">
+      <Filter>Исходные файлы\data_structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Queue.cpp">
+      <Filter>Исходные файлы\data_structures</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Bin_pow.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Binary_search.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\GCD.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Sieve.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Matrix_mul.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Euler_function.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\Downloads\Modular.cpp">
+      <Filter>Исходные файлы\math</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Stack.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Sieve.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Selection_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Radix_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Quick_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Modular.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Merge_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix_mul.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Insertion_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="GCD.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Euler_function.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Counting_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Bubble_sort.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitwise.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmasks.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Binary_search.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Bin_pow.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
