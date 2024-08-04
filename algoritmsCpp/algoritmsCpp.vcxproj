@@ -135,17 +135,17 @@
     <ClCompile Include="..\..\..\..\..\Downloads\GCD.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Matrix_mul.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Modular.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Queue.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Sieve.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Stack.cpp" />
     <ClCompile Include="algoritmsCpp.cpp" />
     <ClCompile Include="Bubble_sort.cpp" />
     <ClCompile Include="Counting_sort.cpp" />
     <ClCompile Include="Insertion_sort.cpp" />
     <ClCompile Include="Merge_sort.cpp" />
+    <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Quick_sort.cpp" />
     <ClCompile Include="Radix_sort.cpp" />
     <ClCompile Include="Selection_sort.cpp" />
+    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Binary_search.h" />
