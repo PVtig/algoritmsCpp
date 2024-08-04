@@ -146,6 +146,7 @@
     <ClCompile Include="..\..\..\..\..\Downloads\Sieve.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Stack.cpp" />
     <ClCompile Include="algoritmsCpp.cpp" />
+    <ClCompile Include="Quick.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Binary_search.h" />

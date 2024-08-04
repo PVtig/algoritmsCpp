@@ -84,6 +84,9 @@
     <ClCompile Include="..\..\..\..\..\Downloads\Modular.cpp">
       <Filter>Исходные файлы\math</Filter>
     </ClCompile>
+    <ClCompile Include="Quick.cpp">
+      <Filter>Исходные файлы\sortings</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
