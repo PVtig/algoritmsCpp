@@ -131,22 +131,21 @@
     <ClCompile Include="..\..\..\..\..\Downloads\Bin_pow.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Bitmasks.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Bitwise.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Bubble_sort.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Counting_sort.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Euler_function.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\GCD.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Insertion_sort.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Matrix_mul.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Merge_sort.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Modular.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Queue.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Quick_sort.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Radix_sort.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Selection_sort.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Sieve.cpp" />
     <ClCompile Include="..\..\..\..\..\Downloads\Stack.cpp" />
     <ClCompile Include="algoritmsCpp.cpp" />
-    <ClCompile Include="Quick.cpp" />
+    <ClCompile Include="Bubble_sort.cpp" />
+    <ClCompile Include="Counting_sort.cpp" />
+    <ClCompile Include="Insertion_sort.cpp" />
+    <ClCompile Include="Merge_sort.cpp" />
+    <ClCompile Include="Quick_sort.cpp" />
+    <ClCompile Include="Radix_sort.cpp" />
+    <ClCompile Include="Selection_sort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Binary_search.h" />
