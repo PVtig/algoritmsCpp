@@ -127,15 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\Binary_search.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Bin_pow.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Bitmasks.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Bitwise.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Euler_function.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\GCD.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Matrix_mul.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Modular.cpp" />
-    <ClCompile Include="..\..\..\..\..\Downloads\Sieve.cpp" />
+    <ClCompile Include="Binary_search.cpp" />
+    <ClCompile Include="Bin_pow.cpp" />
+    <ClCompile Include="Bitmasks.cpp" />
+    <ClCompile Include="Bitwise.cpp" />
+    <ClCompile Include="Euler_function.cpp" />
+    <ClCompile Include="GCD.cpp" />
+    <ClCompile Include="Matrix_mul.cpp" />
+    <ClCompile Include="Modular.cpp" />
+    <ClCompile Include="Sieve.cpp" />
     <ClCompile Include="algoritmsCpp.cpp" />
     <ClCompile Include="Bubble_sort.cpp" />
     <ClCompile Include="Counting_sort.cpp" />
